@@ -1,0 +1,19 @@
+# This is an h1 header
+## This is an h2 header
+### This is an h3 header
+#### This is an h4 header
+##### This is an h5 header
+###### This is an h6 header
+
+![Pic ng kung ano](https://octodex.github.com/images/yaktocat.png)
+
+
+``` bash
+$ git init
+Initialized empty Git repository in /zzelif/skills-communicate-using-markdown/.git/
+```
+
+- [x] Turn on GitHub Pages
+- [x] Outline my portfolio
+- [x] Introduce myself to the world
+- [ ] Solve quantum computing

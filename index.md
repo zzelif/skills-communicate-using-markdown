@@ -6,3 +6,9 @@
 ###### This is an h6 header
 
 ![Pic ng kung ano](https://octodex.github.com/images/yaktocat.png)
+
+
+``` bash
+$ git init
+Initialized empty Git repository in /zzelif/skills-communicate-using-markdown/.git/
+```

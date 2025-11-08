@@ -12,3 +12,8 @@
 $ git init
 Initialized empty Git repository in /zzelif/skills-communicate-using-markdown/.git/
 ```
+
+- [x] Turn on GitHub Pages
+- [x] Outline my portfolio
+- [x] Introduce myself to the world
+- [ ] Solve quantum computing
